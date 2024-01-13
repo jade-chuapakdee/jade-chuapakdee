@@ -1,6 +1,6 @@
 # Hi, I'm [Jade](https://github.com/jade-chuapakdee)! 👋
 
->  💻 A third-year Software Engineer student
+>  💻 A third-year Software Engineering student
 
 
 ## Contact
