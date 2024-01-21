@@ -2,7 +2,7 @@
 
 >  💻 A third-year Software Engineering International student
 
-<h3 align="center" padding-top: 525px;>  Interested in Front end Developer and IoT Developer. </h3>
+<h3 align="center" padding-top: 525px;>  Interested in Front end Developer and IoT Developer internships. </h3>
 
 
 ## Contact
